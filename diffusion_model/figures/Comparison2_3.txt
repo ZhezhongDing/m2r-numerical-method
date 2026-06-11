@@ -1,0 +1,2 @@
+Max error at final time: 2.6603338672215315e-05
+Picard iterations used in last step: 2
